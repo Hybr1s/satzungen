@@ -75,7 +75,7 @@ $ 5 Rechte und Pflichten der Mitglieder
 
 9. Der freiwillige Austritt erfolgt durch schriftliche Erklärung gegenüber dem Vorstand. Er ist zum Quartalsende möglich und muss mindestens einen Monat vorher schriftlich erklärt werden. 
 
-10.  Ein Mitglied kann aus dem Verein mit sofortiger Wirkung ausgeschlossen werden, wenn das Mitglied in grober Weise gegen die Satzung, Ordnungen, den Satzungszweck oder die Interessen des Vereins verstößt. Der Vorstand kann einen temporären Ausschluss bis zur nächsten Mitgliederversammlung aussprechen, welche dann über den endgültigen Ausschluss des Mitglieds entscheidet. 
+10. Ein Mitglied kann aus dem Verein mit sofortiger Wirkung ausgeschlossen werden, wenn das Mitglied in grober Weise gegen die Satzung, Ordnungen, den Satzungszweck oder die Interessen des Vereins verstößt. Der Vorstand kann einen temporären Ausschluss bis zur nächsten Mitgliederversammlung aussprechen, welche dann über den endgültigen Ausschluss des Mitglieds entscheidet. 
 
 11. Die Mitgliedschaft endet durch Streichung, wenn ohne Begründung die Mitgliedsbeiträge von zwei Quartalen und nach zweimaliger Mahnung im Mindestabstand von zwei Wochen nicht entrichtet wurden. Die zweite Mahnung muss schriftlich erfolgt sein. Nach Verstreichen einer Erklärungsfrist von einem weiteren Monat, endet die Mitgliedschaft automatisch. Die Frist beginnt mit dem Absenden der zweiten Mahnung. 
 
@@ -118,7 +118,7 @@ Die Organe des Vereins sind
 1. Oberstes Organ ist die Mitgliederversammlung.
 
 2. Die Mitgliederversammlung stellt die Richtlinien für die Arbeit des Vereins auf und entscheidet Fragen von grundsätzlicher Bedeutung. Zu den Aufgaben der Mitgliederversammlung gehören insbesondere:
-		a)  Bestimmung der Vorstandsmitglieder und Kassenprüfer durch  	geheime Wahl
+		a) Bestimmung der Vorstandsmitglieder und Kassenprüfer durch  	geheime Wahl
 		b) Diskussion über die bisherige und zukünftige Arbeit des Vereins
 		c) Genehmigung des vom Vorstand vorgelegten Wirtschafts- und Investitionsplans
 		d) Beschlussfassung über den Jahresabschluss
