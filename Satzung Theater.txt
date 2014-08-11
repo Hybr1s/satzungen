@@ -4,10 +4,9 @@
 § 4 Mitgliedschaft
 $ 5 Rechte und Pflichten der Mitglieder
 § 6 Organe des Vereins
-§ 6 A Der Vorstand
-§ 6 B Die Mitgliederversammlung 
-§ 7 Satzungsänderung und Auflösung 
-§ 8 Haftung
+§ 7 Der Vorstand
+§ 8 Die Mitgliederversammlung 
+§ 9 Satzungsänderung und Auflösung 
 
 
 
@@ -31,7 +30,7 @@ $ 5 Rechte und Pflichten der Mitglieder
 ====================================================
 
 
-1. Der Zweck des Vereins ist die Förderung von Kunst und Kultur, insbesondere des Theaterspiels.
+1. Der Zweck des Vereins ist die Förderung von Kunst und Kultur, insbesondere des freien Theaterspiels.
 
 2. Der Satzungszweck wird insbesondere verwirklicht durch die öffentliche Aufführung von Theaterstücken, sowie der Organisation sonstiger kultureller Veranstaltungen und Unternehmungen aller Art und des damit verbundenen Rahmenprogramms.
 
@@ -41,7 +40,7 @@ $ 5 Rechte und Pflichten der Mitglieder
 
 ====================================================
 § 3 Steuerbegünstigung
-========================================
+====================================================
 
 
 1. Der Verein verfolgt im Rahmen seiner Tätigkeit gemäß §2 der Satzung ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnittes steuerbegünstigte Zwecke der Abgabenordnung (§§ 51ff. AO). Er ist selbstlos tätig und verfolgt in erster Linie keine eigenwirtschaftlichen Zwecke.
@@ -107,7 +106,7 @@ $ 5 Rechte und Pflichten der Mitglieder
 
 
 ====================================================
-§ 6 A Der Vorstand
+§ 7 Der Vorstand
 ====================================================
 
 
@@ -119,18 +118,22 @@ $ 5 Rechte und Pflichten der Mitglieder
 
 4. Zur rechtsverbindlichen Vertretung genügt die Zeichnung durch ein Mitglied des Vorstandes.
 
-5. Die Kassenführung ist im Sinne des Vorstandes ebenfalls zeichnungsberechtigt.
+5. Die künstlerische Leitung wird in der Regel vom Vorstand für die Dauer eines Projektes ernannt und kann in Ausnahmefällen durch den Vorstand auch abgesetzt werden.
+   
+6. Die künstlerische Leitung obliegt die Regieführung und Leitung eigener künstlerischer Projekte wie zum Beispiel Inszenierungen, Aufführungen oder Performances des Vereins. Er besitzt das Vorschlagsrecht für die Auswahl von Stücken und entscheidet mit dem Vorstand über die Annahme von Stücken.
 
-6. Der Vorstand sowie die Kassenführung dürfen für ihre Tätigkeit eine angemessene Vergütung erhalten. Das Nähere beschließt die Mitgliederversammlung.
+7. Die Kassenführung und künstlerische Leitung sind in ihrem Aufgabenfeld und im Sinne des Vorstandes zeichnungsberechtigt.
 
-7. Der Vorstand gibt sich selbst eine Geschäftsordnung.
+8. Der Vorstand, die Kassenführung, wie auch die künstlerische Leitung dürfen für ihre Tätigkeit eine angemessene Vergütung erhalten. Das Nähere beschließt die Mitgliederversammlung.
 
-8. Der Vorstand sowie die Kassenführung haften nicht für leichte Fahrlässigkeit
+9. Der Vorstand gibt sich selbst eine Geschäftsordnung.
+
+10. Der Vorstand sowie die Kassenführung haften nicht für leichte Fahrlässigkeit
 
 
 
 ====================================================
-§ 6 B Die Mitgliederversammlung
+§ 8 Die Mitgliederversammlung
 ====================================================
 
 
@@ -164,7 +167,7 @@ $ 5 Rechte und Pflichten der Mitglieder
 
 
 ====================================================
-§7 Satzungsänderung und Auflösung 
+§ 9 Satzungsänderung und Auflösung 
 ====================================================
 
 
