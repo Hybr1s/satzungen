@@ -60,7 +60,7 @@ $ 5 Rechte und Pflichten der Mitglieder
 
 2. Aktives Mitglied kann jede natürliche Person werden, die im Verein oder bei einem Projekt des Vereins aktiv mitwirken möchte.
 
-3. Fördermitglied kann jede natürliche oder juristische Person werden, die sich zwar nicht aktiv betätigen, jedoch die Ziele und den Zweck des Vereins fördern und unterstützen möchte.
+3. Fördermitglied kann jede natürliche oder juristische Person werden, die die Ziele und den Zweck des Vereins fördern und unterstützen möchte, ohne sich selbst aktiv am üblichen Vereinsgeschehen zu beteiligen.
 
 4. Der Beitritt zum Verein ist schriftlich zu erklären. Bei Minderjährigen ist der Aufnahmeantrag durch die gesetzlichen Vertreter zu stellen. Über die Aufnahme entscheidet der Vorstand.
 
@@ -72,7 +72,7 @@ $ 5 Rechte und Pflichten der Mitglieder
 
 8. Der freiwillige Austritt erfolgt durch schriftliche Erklärung gegenüber dem Vorstand. Er ist außerhalb einer laufenden Produktion zum Quartalsende möglich und muss mindestens einen Monat vorher schriftlich erklärt werden. Aktiv an einer laufenden Produktion Mitwirkende ist der Austritt erst zum Quartalsende nach Ende der Produktion möglich. Auch hier gilt eine einmonatige Kündigungsfrist. Die Dauer der Produktion bezeichnet den Zeitraum von der Besetzung eines Projekts bis zum Tag nach dessen letzter Aufführung.
 
-9. Ein Mitglied kann aus dem Verein mit sofortiger Wirkung ausgeschlossen werden, wenn das Mitglied in grober Weise gegen die Satzung, Ordnungen, den Satzungszweck oder die Interessen des Vereins verstößt. Über den Ausschluss eines Mitglieds entscheidet der Vorstand. 
+9. Ein Mitglied kann aus dem Verein mit sofortiger Wirkung ausgeschlossen werden, wenn das Mitglied gegen die Satzung, Ordnungen, den Satzungszweck oder die Interessen des Vereins verstößt. Über den Ausschluss eines Mitglieds entscheidet der Vorstand.
 
 10. Nach dem Ende der Mitgliedschaft, gleich aus welchem Grund, erlöschen alle Ansprüche aus dem Mitgliedsverhältnis. Eine Rückgewähr von Beiträgen, Spenden oder sonstigen Unterstützungsleistungen ist grundsätzlich ausgeschlossen. Der Anspruch des Vereins auf eventuell rückständige Beitragsforderungen bleibt hiervon unberührt.
 
@@ -89,7 +89,7 @@ $ 5 Rechte und Pflichten der Mitglieder
 
 3. Fördermitglieder besitzen das Rede- und Antragsrecht auf Versammlungen, jedoch kein Stimm- oder Wahlrecht.
 
-4. Die Vereinsmitglieder sind zur Zahlung des in der Beitragsordnung geregelten Mitgliedsbeitrages verpflichtet. Sie sind außerdem dazu verpflichtet, dem Verein Änderungen ihrer Postadresse, E-Mail-Adresse und Bankverbindung umgehend mitzuteilen. Für Folgen, die sich daraus ergeben, dass das Mitglied dieser Pflicht nicht nachkommt, haftet das Mitglied und stellt den Verein von jeglicher Haftung frei.
+4. Die Vereinsmitglieder sind zur Zahlung des in der Beitragsordnung geregelten Mitgliedsbeitrages verpflichtet. Sie sind außerdem dazu verpflichtet, dem Verein Änderungen ihrer Postadresse, E-Mail-Adresse und Bankverbindung umgehend mitzuteilen. Änderung bezüglich der Bankeinzüge können nur bei Übermittlung 3 Wochen vor der Buchung berücksichtigt werden. Für Folgen, die sich daraus ergeben, dass das Mitglied dieser Pflicht nicht nachkommt, haftet das Mitglied und stellt den Verein von jeglicher Haftung frei.
 
 
 
@@ -111,7 +111,7 @@ $ 5 Rechte und Pflichten der Mitglieder
 
 1. Der Vorstand wird im Sinne des §26 BGB aus einem Mitglied als Person für den Vorsitz gebildet.
 
-2. Die Person für den Vorsitz wird von der Mitgliederversammlung für eine unbefristete Amtszeit mit relativer Mehrheit gewählt und bleibt bis zur Eintragung einer anderen Person für den Vorsitz im Amt.
+2. Die Person für den Vorsitz wird von der Mitgliederversammlung für eine unbefristete Amtszeit mit relativer Mehrheit gewählt und bleibt bis zur Eintragung einer anderen Person für den Vorsitz kommissarisch im Amt.
 
 3. Der Vorsitz ernennt unter Berücksichtigung der Vorschläge der Mitgliederversammlung ein Mitglied für die Kassenführung auf unbestimmte Zeit.
 
@@ -125,7 +125,7 @@ $ 5 Rechte und Pflichten der Mitglieder
 
 8. Die Kassenführung und künstlerische Leitung sind in ihrem Aufgabenfeld und im Sinne des Vorstandes zeichnungsberechtigt.
 
-9. Der Vorstand, die Kassenführung wie auch die künstlerische Leitung dürfen für ihre Tätigkeit eine angemessene Vergütung erhalten. Das Nähere beschließt die Mitgliederversammlung.
+9. Der Vorstand, die Kassenführung wie auch die künstlerische Leitung dürfen für ihre Tätigkeit eine angemessene Vergütung erhalten, gemäß der Vergütungsvorgabe des Finanzamtes. Das Nähere beschließt die Mitgliederversammlung.
 
 10. Der Vorstand, die Kassenführung wie auch die künstlerische Leitung haften nicht für leichte Fahrlässigkeit
 
@@ -140,9 +140,9 @@ $ 5 Rechte und Pflichten der Mitglieder
 
 2. Die Mitgliederversammlung ist mindestens ein Mal pro Jahr.
 
-3. Die Einladung erfolgt mit einer mindestens 14-tägigen Frist durch den Vorstand in schriftlicher oder elektronischer Form.
+3. Die Einladung erfolgt mit einer mindestens 14-tägigen Frist durch den Vorstand in Textform.
 
-4. Der Vorstand hat zusätzlich binnen 21 Tage eine Mitgliederversammlung einzuberufen, wenn mindestens 25% der Vereinsmitglieder die Einberufung schriftlich fordern.
+4. Der Vorstand hat zusätzlich binnen 21 Tage eine außerordentliche Mitgliederversammlung einzuberufen, wenn mindestens 25% der Vereinsmitglieder die Einberufung schriftlich fordern.
 
 5. Zu den Aufgaben der Mitgliederversammlung gehören insbesondere:
 	a) Bestimmung des Vorstands und Kassenprüfer durch geheime Wahl
@@ -152,16 +152,17 @@ $ 5 Rechte und Pflichten der Mitglieder
 	e) Entgegennehmen des Geschäftsberichtes des Vorstandes
 	f) Beschlussfassung über die Entlastung des Vorstandes
 	g) Erlass der Beitragsordnung, die nicht Bestandteil der Satzung ist
-	h) Beschlussfassung über die Übernahme neuer Aufgaben oder den Rückzug aus Aufgaben seitens des Vereins
-	i) Beschlussfassung über Änderungen der Satzung und die Auflösung des Vereins 
+	h) Beschluss über die Vergütung des Vorstandes, der Kassenführung und der künstlerischen Leitung
+	i) Beschlussfassung über die Übernahme neuer Aufgaben oder den Rückzug aus Aufgaben seitens des Vereins
+	j) Beschlussfassung über Änderungen der Satzung und die Auflösung des Vereins 
 
 6. Jedes stimmberechtigte Vereinsmitglied hat das gleiche Stimmgewicht.
 
 7. Die Mitgliederversammlung ist beschlussfähig, wenn mehr 30% der Mitglieder anwesend ist. Falls dies nicht der Fall sein sollte, wird direkt ein neuer Termin bestimmt, ohne die Einladungsfrist. Die daraufhin einberufene Mitgliederversammlung ist dann in jedem Fall beschlussfähig.
 
-8. Über die Versammlung ist mindestens ein schriftliches Ergebnisprotokoll anzufertigen. Das Protokoll ist vom Versammlungsleiter und Schriftführer zu unterschrieben.
+8. Über die Versammlung ist mindestens ein schriftliches Ergebnisprotokoll anzufertigen. Das Protokoll ist vom Versammlungsleiter und/oder Schriftführer zu unterschrieben.
 
-9. Die Mitgliederversammlung fasst ihre Beschlüsse grundsätzlich mit relativer Mehrheit in offener Abstimmung. Auschluss von Mitgliedern, Beschlüsse über Satzungsänderungen und Auflösung des Vereins erfordern mindestens doppelt so viele gültige Ja-Stimmen wie Nein-Stimmen. Auf Wunsch eines oder mehrerer stimmberechtigter Mitglieder ist geheim abzustimmen.
+9. Die Mitgliederversammlung fasst ihre Beschlüsse grundsätzlich mit relativer Mehrheit in offener Abstimmung. Ausschluss von Mitgliedern, Beschlüsse über Satzungsänderungen und Auflösung des Vereins erfordern mindestens doppelt so viele gültige Ja-Stimmen wie Nein-Stimmen. Auf Wunsch eines oder mehrerer stimmberechtigter Mitglieder ist geheim abzustimmen.
 
 
 

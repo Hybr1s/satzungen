@@ -61,7 +61,7 @@ $ 5 Rechte und Pflichten der Mitglieder
 
 2. Aktives Mitglied kann jede natürliche Person werden, welche die Ziele des. Vereins unterstützt.
 
-3. Fördermitglied kann jede natürliche oder juristische Person werden, die sich zwar nicht aktiv betätigen, jedoch die Ziele und den Zweck des Vereins fördern und unterstützen möchte.
+3. Fördermitglied kann jede natürliche oder juristische Person werden, die die Ziele und den Zweck des Vereins fördern und unterstützen möchte, ohne sich selbst aktiv am üblichen Vereinsgeschehen zu beteiligen.
 
 4. Zum Ehrenmitglied können natürliche Personen ernannt werden, die sich in besonderer Weise um den Verein verdient gemacht haben. Hierfür ist ein Beschluss der Mitgliederversammlung erforderlich.
 
@@ -75,7 +75,7 @@ $ 5 Rechte und Pflichten der Mitglieder
 
 9. Der freiwillige Austritt erfolgt durch schriftliche Erklärung gegenüber dem Vorstand. Er ist zum Quartalsende möglich und muss mindestens einen Monat vorher schriftlich erklärt werden. 
 
-10. Ein Mitglied kann aus dem Verein mit sofortiger Wirkung ausgeschlossen werden, wenn das Mitglied in grober Weise gegen die Satzung, Ordnungen, den Satzungszweck oder die Interessen des Vereins verstößt. Der Vorstand kann einen temporären Ausschluss bis zur nächsten Mitgliederversammlung aussprechen, welche dann über den endgültigen Ausschluss des Mitglieds entscheidet. 
+10. Ein Mitglied kann aus dem Verein mit sofortiger Wirkung ausgeschlossen werden, wenn das Mitglied gegen die Satzung, Ordnungen, den Satzungszweck oder die Interessen des Vereins verstößt. Der Vorstand kann einen temporären Ausschluss bis zur nächsten Mitgliederversammlung aussprechen, welche dann über den endgültigen Ausschluss des Mitglieds entscheidet. 
 
 11. Die Mitgliedschaft endet durch Streichung, wenn ohne Begründung die Mitgliedsbeiträge von zwei Quartalen und nach zweimaliger Mahnung im Mindestabstand von zwei Wochen nicht entrichtet wurden. Die zweite Mahnung muss schriftlich erfolgt sein. Nach Verstreichen einer Erklärungsfrist von einem weiteren Monat, endet die Mitgliedschaft automatisch. Die Frist beginnt mit dem Absenden der zweiten Mahnung. 
 
@@ -90,7 +90,7 @@ $ 5 Rechte und Pflichten der Mitglieder
 
 1. Die Mitglieder haben das Recht, gegenüber dem Vorstand und der Mitgliederversammlung Anträge zu stellen.
 
-2. Aktive Mitglieder sind zur Zahlung des in der Beitragsordnung geregelten Mitgliedsbeitrages verpflichtet. Sie sind außerdem dazu verpflichtet, dem Verein Änderungen ihrer Postadresse, E-Mail-Adresse und Bankverbindung umgehend mitzuteilen. Für Folgen, die sich daraus ergeben, dass das Mitglied dieser Pflicht nicht nachkommt, haftet das Mitglied und stellt den Verein von jeglicher Haftung frei.
+2. Aktive Mitglieder sind zur Zahlung des in der Beitragsordnung geregelten Mitgliedsbeitrages verpflichtet. Sie sind außerdem dazu verpflichtet, dem Verein Änderungen ihrer Postadresse, E-Mail-Adresse und Bankverbindung umgehend mitzuteilen. Änderung bezüglich der Bankeinzüge können nur bei Übermittlung 3 Wochen vor der Buchung berücksichtigt werden. Für Folgen, die sich daraus ergeben, dass das Mitglied dieser Pflicht nicht nachkommt, haftet das Mitglied und stellt den Verein von jeglicher Haftung frei.
 
 3. Aktive Mitglieder besitzen das aktive und passive Wahlrecht, sowie das Antrags-, Stimm- und Rederecht auf Mitgliedsversammlungen.
 
@@ -127,8 +127,9 @@ Die Organe des Vereins sind
 		g) Erlass der Beitragsordnung, die nicht Bestandteil der Satzung ist
 		h) Beschlussfassung über die Übernahme neuer Aufgaben oder den Rückzug aus Aufgaben seitens des Vereins
 		i) Beschlussfassung über Änderungen der Satzung und die Auflösung des Vereins
+		j) Beschluss über den Ausschluss von Mitgliedern sowie ausgesprochenen Hausverboten
 
-3. Die Einladung zur Mitgliederversammlung erfolgt durch den Vorstand in Textform. Die Einladungsfrist beträgt vier Wochen.
+3. Die Einladung zur Mitgliederversammlung erfolgt durch den Vorstand in Textform. Die Einladungsfrist beträgt  28 Tage, wobei der Tag der Versammlung sowie der Tag der Einladung mitgezählt sind.
 
 4. Die Mitgliederversammlung tagt mindestens einmal im Jahr.
 
@@ -136,9 +137,9 @@ Die Organe des Vereins sind
 
 6. Die Mitgliederversammlung ist beschlussfähig, wenn mehr als 30% der Mitglieder anwesend ist; Falls dies nicht der Fall sein sollte, wird sofort ein neuer Termin vereinbart. Diese zweite Einladungsfrist beträgt eine Woche. Die daraufhin einberufene Mitgliederversammlung ist dann in jedem Fall beschlussfähig.
 
-7. Über die Versammlung ist mindestens ein schriftliches Ergebnisprotokoll anzufertigen. Das Protokoll wird vom Protokollführer und dem Versammlungsleiter unterschrieben.
+7. Über die Versammlung ist mindestens ein schriftliches Ergebnisprotokoll anzufertigen. Das Protokoll wird vom Protokollführer und/oder dem Versammlungsleiter unterschrieben.
 
-8. Die Mitgliederversammlung fasst ihre Beschlüsse grundsätzlich mit relativer Mehrheit in offener Abstimmung. Auschluss von Mitgliedern, Beschlüsse über Satzungsänderungen und Auflösung des Vereins erfordern mindestens doppelt so viele gültige Ja-Stimmen wie Nein-Stimmen. Auf Wunsch eines oder mehrerer stimmberechtigter Mitglieder ist geheim abzustimmen.
+8. Die Mitgliederversammlung fasst ihre Beschlüsse grundsätzlich mit relativer Mehrheit in offener Abstimmung. Ausschluss von Mitgliedern, Beschlüsse über Satzungsänderungen und Auflösung des Vereins erfordern mindestens doppelt so viele gültige Ja-Stimmen wie Nein-Stimmen. Auf Wunsch eines oder mehrerer stimmberechtigter Mitglieder ist geheim abzustimmen.
 
 
 
