@@ -1,0 +1,3 @@
+\select@language {ngerman}
+\contentsline {section}{Abschnitt A: Grundlagen}{3}{section*.2}
+\contentsline {subsection}{\S {} 1 Name, Sitz und T\IeC {\"a}tigkeitsgebiet}{3}{section*.3}

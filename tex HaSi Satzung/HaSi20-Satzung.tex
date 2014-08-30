@@ -1,0 +1,273 @@
+\documentclass[a4paper,12pt]{scrartcl}
+\usepackage{xltxtra}
+\usepackage{unicode-math}
+\usepackage[ngerman]{babel}
+\usepackage[a4paper, top=30mm, left=30mm, right=30mm, bottom=30mm, headsep=10mm, footskip=12mm]{geometry} 
+\usepackage{nameref}
+
+
+\deffootnote{1em}{1em}{\textsuperscript{\thefootnotemark\ }}
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{3}
+\usepackage{graphicx}
+\usepackage{setspace} 
+\usepackage{capt-of}
+\usepackage{subfig}
+\usepackage{fancyhdr}
+\usepackage{url}
+
+
+
+%-------------------
+%--Eigene Commands--
+%-------------------
+\newcommand{\bs}{\ensuremath{\backslash}}
+\newcommand{\ko}[1]{}
+\newcommand{\lz}[3]{\begin{singlespace} \begin{quotation}\vspace{-0.5cm}\glqq #1\grqq \footnote{Siehe \cite[#3.]{#2}} \end{quotation} \end{singlespace} }
+\newcommand{\kz}[3]{\glqq #1\grqq \footnote{Siehe \cite[#3.]{#2}}}
+\newcommand{\vw}[2]{\footnote{Vgl. \cite[#2.]{#1}}}
+
+%--------------------------------------
+%--------------------------------------
+%--------------------------------------
+%Ende des Kopfbereiches
+%--------------------------------------
+%--------------------------------------
+%--------------------------------------
+
+
+\begin{document}
+
+% Kopf- und Fusszeile
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\renewcommand{\leftmark}{\rightmark}
+\pagestyle{fancy}
+\lhead{}
+\chead{}
+\rhead{\thesection\space\contentsname}
+\renewcommand{\headrulewidth}{0.4pt}
+
+% Vorspann
+\renewcommand{\thesection}{\Roman{section}}
+\renewcommand{\thesection}{\Roman{section}}
+\pagenumbering{Roman}
+
+%-------------------
+%------Titelseite-----
+%-------------------
+
+
+\begin{titlepage}
+
+
+\begin{minipage}[t]{0.76\textwidth}
+\begin{flushleft}
+\begin{small}
+
+\end{small}
+\end{flushleft}
+\end{minipage}
+\begin{minipage}[t]{0.24\textwidth}
+\begin{flushleft}
+\ \\
+\today
+\end{flushleft}
+\end{minipage}
+
+\vfill
+\makebox[\textwidth]{\includegraphics[width=10cm]{pixelhasi-text.png}}
+\vspace{0.5cm}
+
+\begin{center}
+\begin{Huge}
+
+\textbf{Satzung}
+\vspace{0.5cm}
+\begin{small}
+\begin{center}Hackspace Siegen e.V.\end{center}
+\end{small}
+
+\end{Huge}
+\end{center}
+
+\vfill
+
+\begin{center}
+www.hackspace.siegen.so
+\end{center}  
+\end{titlepage}
+
+\newpage
+%-------------------
+%Inhaltsverzeichnis
+%-------------------
+
+\tableofcontents
+\thispagestyle{empty}
+\clearpage
+
+%-------------------
+%Kopfzeilen-Layout
+%-------------------
+
+
+% Kopfzeile
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\renewcommand{\subsectionmark}[1]{}
+\renewcommand{\subsubsectionmark}[1]{}
+\lhead{Satzung Hackspace Siegen e.V.}
+\rhead{\today}
+
+\onehalfspacing
+\renewcommand{\thesection}{\arabic{section}}
+\renewcommand{\thesection}{\arabic{section}}
+\setcounter{section}{0}
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+
+\section*{\S{} 1 Name und Sitz}
+\addcontentsline{toc}{section}{\S{} 1 Name und Sitz} 
+\begin{description} 
+
+\item[(1)] Der Verein führt den Namen "Hackspace Siegen".
+\item[(2)] Der Verein soll in das Vereinsregister eingetragen werden und führt danach den Zusatz e.V.
+\item[(3)] Sein Sitz ist in Siegen, Bundesrepublik Deutschland. Sofern keine feste Geschäftsstelle eingerichtet ist, folgt die Verwaltung dem Wohnort des jeweiligen Vorstandsmitglieds, das die Geschäftsführung wahrnimmt. 
+\item[(4)] Das Geschäftsjahr ist das Kalenderjahr.
+
+\end{description}
+
+
+
+\section*{\S{} 2 Zweck des Vereins}
+\addcontentsline{toc}{section}{\S{} 2 Zweck des Vereins} 
+\begin{description} 
+
+\item[(1)] Ziel des Vereins ist die Förderung der Bildung
+\item[(2)] Der Verein erreicht seine Ziele insbesondere durch:
+\begin{description}
+ \item[(a)] Schaffung einer in allen unten genannten Bereichen förderlichen Infrastruktur
+ \item[(b)] Gemeinschaftliche Entwicklung und Umgang mit Technik
+ \item[(c)] Veranstaltung und/oder Förderung von Kongressen, Konferenzen und virtuellen Zusammenkünften
+ \item[(d)] Förderung interdisziplinärer Arbeitsgruppen. Exemplarisch die künstlerische Betrachtung moderner Informationstechnologien und deren kreative Umsetzung in kooperativen Projekten.
+\end{description}
+\item[(3)] Der Verein strebt die Zusammenarbeit mit anderen Organisationen und Einrichtungen an die ähnliche Ziele verfolgen oder auf dem oben genannten Gebiet tätig sind.
+ 
+\end{description}
+
+
+
+\section*{\S{} 3 Steuerbegünstigung}
+\addcontentsline{toc}{section}{\S{} 3 Steuerbegünstigung}
+\begin{description} 
+
+\item[(1)] Der Verein verfolgt im Rahmen seiner Tätigkeit gemäß §2 der Satzung ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnittes steuerbegünstigte Zwecke der Abgabenordnung (§§ 51ff. AO). Er ist selbstlos tätig und verfolgt in erster Linie keine eigenwirtschaftlichen Zwecke.
+
+\item[(2)] Die Mittel des Vereins sind ausschließlich zu satzungsgemäßen Zwecken zu verwenden. Die Mitglieder erhalten ausschließlich Erstattungen entstandener Kosten, aber keine direkten Zuwendungen aus Mitteln des Verein.
+
+\item[(3)] Niemand darf durch Vereinsausgaben, die dem Vereinszweck fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden. Für den Ersatz von Aufwendungen ist, soweit nicht andere gesetzliche Bestimmungen anzuwenden sind, das Bundesreisekostengesetz maßgebend.
+
+\end{description}
+
+
+
+\section*{\S{} 4 Mitgliedschaft}
+\addcontentsline{toc}{section}{\S{} 4 Mitgliedschaft}
+\begin{description} 
+
+\item[(1)] Der Verein besteht auf aktiven Mitgliedern, Fördermitgliedern und Ehrenmitgliedern.
+\item[(2)] Aktives Mitglied kann jede natürliche Person werden, welche die Ziele des. Vereins unterstützt.
+\item[(3)] Fördermitglied kann jede natürliche oder juristische Person werden, die die Ziele und den Zweck des Vereins fördern und unterstützen möchte, ohne sich selbst aktiv am üblichen Vereinsgeschehen zu beteiligen.
+\item[(4)] Zum Ehrenmitglied können natürliche Personen ernannt werden, die sich in besonderer Weise um den Verein verdient gemacht haben. Hierfür ist ein Beschluss der Mitgliederversammlung erforderlich.
+\item[(5)] Der Beitritt zum Verein ist schriftlich zu erklären. Bei Minderjährigen ist der Aufnahmeantrag durch die gesetzlichen Vertreter zu stellen. Über die Aufnahme entscheidet der Vorstand.
+\item[(6)] Die Beitragspflicht wird durch die Beitragsordnung geregelt.
+\item[(7)] Die Mitgliedschaft als aktives Mitglied, sowie als Fördermitglied und Ehrenmitglied ist nicht übertragbar. 
+\item[(8)] Die Mitgliedschaft endet durch freiwilligen Austritt, Ausschluss, Streichung, Tod des Mitglieds oder Verlust der Rechtsfähigkeit bei juristischen Personen. 
+\item[(9)] Der freiwillige Austritt erfolgt durch schriftliche Erklärung gegenüber dem Vorstand. Er ist zum Quartalsende möglich und muss mindestens einen Monat vorher schriftlich erklärt werden. 
+\item[(10)] Ein Mitglied kann aus dem Verein mit sofortiger Wirkung ausgeschlossen werden, wenn das Mitglied gegen die Satzung, Ordnungen, den Satzungszweck oder die Interessen des Vereins verstößt. Der Vorstand kann einen temporären Ausschluss bis zur nächsten Mitgliederversammlung aussprechen, welche dann über den endgültigen Ausschluss des Mitglieds entscheidet. 
+\item[(11)] Die Mitgliedschaft endet durch Streichung, wenn ohne Begründung die Mitgliedsbeiträge von zwei Quartalen und nach zweimaliger Mahnung im Mindestabstand von zwei Wochen nicht entrichtet wurden. Die zweite Mahnung muss schriftlich erfolgt sein. Nach Verstreichen einer Erklärungsfrist von einem weiteren Monat, endet die Mitgliedschaft automatisch. Die Frist beginnt mit dem Absenden der zweiten Mahnung. 
+\item[(12)] Nach dem Ende der Mitgliedschaft, gleich aus welchem Grund, erlöschen alle Ansprüche aus dem Mitgliedsverhältnis. Eine Rückgewähr von Beiträgen, Spenden oder sonstigen Unterstützungsleistungen ist grundsätzlich ausgeschlossen. Der Anspruch des Vereins auf eventuell rückständige Beitragsforderungen bleibt hiervon unberührt.
+
+\end{description}
+
+
+
+\section*{\S{} 5 Rechte und Pflichten der Mitglieder}
+\addcontentsline{toc}{section}{\S{} 5 Rechte und Pflichten der Mitglieder}
+\begin{description} 
+
+\item[(1)] Die Mitglieder haben das Recht, gegenüber dem Vorstand und der Mitgliederversammlung Anträge zu stellen.
+\item[(2)] Aktive Mitglieder sind zur Zahlung des in der Beitragsordnung geregelten Mitgliedsbeitrages verpflichtet. Sie sind außerdem dazu verpflichtet, dem Verein Änderungen ihrer Postadresse, E-Mail-Adresse und Bankverbindung umgehend mitzuteilen. Änderung bezüglich der Bankeinzüge können nur bei Übermittlung 3 Wochen vor der Buchung berücksichtigt werden. Für Folgen, die sich daraus ergeben, dass das Mitglied dieser Pflicht nicht nachkommt, haftet das Mitglied und stellt den Verein von jeglicher Haftung frei.
+\item[(3)] Aktive Mitglieder besitzen das aktive und passive Wahlrecht, sowie das Antrags-, Stimm- und Rederecht auf Mitgliedsversammlungen.
+\item[(4)] Fördermitglieder besitzen das Rede- und Antragsrecht auf Versammlungen, jedoch kein Stimm- oder Wahlrecht.
+\item[(5)] Ehrenmitglieder sind von der Beitragszahlung befreit und haben ansonsten die gleichen Rechte und Pflichten wie aktive Mitglieder.
+
+\end{description}
+
+
+
+\section*{\S{} 6 Organe des Vereins}
+\addcontentsline{toc}{section}{\S{} 6 Organe des Vereins}
+\begin{description} 
+
+\item[(1)] Die Mitgliederversammlung
+\item[(2)] Der Vorstand
+
+\end{description}
+
+
+\section*{\S{} 6A Die Mitgliederversammlung}
+\addcontentsline{toc}{section}{\S{} 6A Die Mitgliederversammlung}
+\begin{description} 
+
+\item[(1)] Oberstes Organ ist die Mitgliederversammlung.
+\item[(2)] Die Mitgliederversammlung stellt die Richtlinien für die Arbeit des Vereins auf und entscheidet Fragen von grundsätzlicher Bedeutung. Zu den Aufgaben der Mitgliederversammlung gehören insbesondere:
+\begin{description} 
+\item[(a)] Bestimmung der Vorstandsmitglieder und Kassenprüfer durch geheime Wahl
+\item[(b)] Diskussion über die bisherige und zukünftige Arbeit des Vereins
+\item[(c)] Genehmigung des vom Vorstand vorgelegten Wirtschafts- und Investitionsplans
+\item[(d)] Beschlussfassung über den Jahresabschluss
+\item[(e)] Entgegennehmen des Geschäftsberichtes des Vorstandes
+\item[(f)] Beschlussfassung über die Entlastung des Vorstandes
+\item[(g)] Erlass der Beitragsordnung, die nicht Bestandteil der Satzung ist
+\item[(h)] Beschluss über die Übernahme neuer Aufgaben und/oder den Rückzug aus Aufgaben seitens des Vereins.
+\item[(i)] Beschluss über den Ausschluss von Mitgliedern sowie ausgesprochenen Hausverboten
+\item[(j)] Beschlussfassung über Änderungen der Satzung und die Auflösung des Vereins
+\end{description}
+\item[(3)] Die Einladung zur Mitgliederversammlung erfolgt durch den Vorstand in Textform. Die Einladungsfrist beträgt 28 Tage, wobei der Tag der Versammlung sowie der Tag der Einladung mitgezählt sind.
+\item[(4)] Die Mitgliederversammlung tagt mindestens einmal im Jahr.
+\item[(5)] Auf Antrag von wenigstens 7 der stimmberechtigten Mitglieder oder auf Beschluss des Vorstandes, ist durch den Vorstand binnen sechs Wochen eine außerordentliche Mitgliederversammlung einzuberufen. Die Einladungsfrist beträgt in diesem Fall mindestens 7 Tage.
+\item[(6)] Die Mitgliederversammlung ist beschlussfähig, wenn mindestens 10 aktive Mitglieder anwesend sind; Falls dies nicht der Fall sein sollte, wird sofort ein neuer Termin vereinbart. Diese zweite Einladungsfrist beträgt eine Woche. Die daraufhin einberufene Mitgliederversammlung ist dann in jedem Fall beschlussfähig.
+\item[(7)] Über die Versammlung ist mindestens ein schriftliches Ergebnisprotokoll anzufertigen. Das Protokoll wird vom Protokollführer und/oder dem Versammlungsleiter unterschrieben.
+\item[(8)] Die Mitgliederversammlung fasst ihre Beschlüsse grundsätzlich mit relativer Mehrheit in offener Abstimmung. Ausschluss von Mitgliedern, Beschlüsse über Satzungsänderungen und Auflösung des Vereins erfordern mindestens doppelt so viele gültige Ja-Stimmen wie Nein-Stimmen. Auf Wunsch eines oder mehrerer stimmberechtigter Mitglieder ist geheim abzustimmen.
+
+\end{description}
+
+
+
+\section*{\S{} 6B Der Vorstand}
+\addcontentsline{toc}{section}{\S{} 6B Der Vorstand}
+\begin{description} 
+
+\item[(1)] Der Vorstand besteht aus dem Vorsitzenden, dem stellvertretenden Vorsitzenden und dem Schatzmeister. Sie bilden den Vorstand im Sinne von §26 BGB. Die Vorstandsmitglieder sind ehrenamtlich tätig.
+\item[(2)] Zur rechtsverbindlichen Vertretung genügt die gemeinsame Zeichnung durch zwei Mitglieder des Vorstandes.
+\item[(3)] Die Amtszeit der Vorstandsmitglieder beträgt 2 Jahre. Sie bleiben bis zur Bestellung des neuen Vorstandes kommissarisch im Amt.
+\item[(4)] Der Vorstand entscheidet kommissarisch über die Übernahme neuer Aufgaben und/oder den Rückzug aus Aufgaben seitens des Vereins. %finde kommissarisch nicht gut, was wenn die Mitgliederversammlung nachträglich die Übernahme ablehnt?
+\item[(5)] Der Vorstand hat das Recht ein temporäres Hausverbot bis zur nächsten Mitgliederversammlung auszusprechen. 
+\item[(6)] Der Vorstand gibt sich selbst eine Geschäftsordnung.
+
+\end{description}
+
+
+\section*{\S{} 7 Satzungsänderung und Auflösung}
+\addcontentsline{toc}{section}{\S{} 7 Satzungsänderung und Auflösung}
+\begin{description} 
+
+\item[(1)] Über Satzungsänderungen und die Auflösung des Vereins entscheidet die Mitgliederversammlung.
+\item[(2)] Änderungen oder Ergänzungen der Satzung, die von der zuständigen Registerbehörde oder vom Finanzamt vorgeschrieben werden, werden vom Vorstand umgesetzt und bedürfen keiner Beschlussfassung durch die Mitgliederversammlung. Sie sind den Mitgliedern unverzüglich mitzuteilen.
+\item[(3)] Bei Auflösung, bei Entziehung der Rechtsfähigkeit des Vereins oder bei Wegfall der steuerbegünstigten Zwecke fällt das gesamte Vermögen an Deutsche UNESCO-Kommission e.V., die es ausschließlich und unmittelbar für gemeinnützige Zwecke zu verwenden hat. Sollte dieser Verein zu diesem Zeitpunkt nicht mehr gemeinnützig sein, fällt das Vermögen an eine andere von der Mitgliederversammlung zu bestimmende gemeinnützige Körperschaft, die das Vermögen für gemeinnützige Zwecke zu verwenden hat.
+
+\end{description}
+
+
+\end{document}

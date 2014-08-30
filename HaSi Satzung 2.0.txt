@@ -32,9 +32,8 @@ $ 5 Rechte und Pflichten der Mitglieder
 
 2. Der Verein erreicht seine Ziele insbesondere durch:
 
-		a) Schaffung einer in allen unten genannten Bereichen förderlichen Infrastruktur (z.B.: Werkstatt, Hard- und Softwarebereitstellung)
-		b) gemeinschaftliche Entwicklung und Umgang mit Technik
-		c.) Öffentliche Informationsveranstaltungen und Diskussionsrunden zu 	gesellschaftspolitischen Fragestellungen wie Technologiekritik, Medienkompetenz, Datenschutz und dem Recht zur informationellen Selbstbestimmung.		d.) Veranstaltung und/oder Förderung von Kongressen, Konferenzen und virtuellen Zusammenkünften		e.) Förderung interdisziplinärer Arbeitsgruppen. Exemplarisch die künstlerische Betrachtung moderner Informationstechnologien und deren kreative Umsetzung in kooperativen Projekten.	
+		a) Schaffung einer in allen unten genannten Bereichen förderlichen Infrastruktur
+		b) gemeinschaftliche Entwicklung und Umgang mit Technik		c.) Veranstaltung und/oder Förderung von Kongressen, Konferenzen und virtuellen Zusammenkünften		d.) Förderung interdisziplinärer Arbeitsgruppen. Exemplarisch die künstlerische Betrachtung moderner Informationstechnologien und deren kreative Umsetzung in kooperativen Projekten.	
 3. Der Verein strebt die Zusammenarbeit mit anderen Organisationen und Einrichtungen an die ähnliche Ziele verfolgen oder auf dem oben genannten Gebiet tätig sind.
 
 
@@ -104,35 +103,36 @@ $ 5 Rechte und Pflichten der Mitglieder
 § 6 Organe des Vereins
 ====================================================
 
-Die Organe des Vereins sind
 	1. die Mitgliederversammlung
 	2. der Vorstand.
 
 
 
 ====================================================
-§ 6A Mitgliederversammlung
+§ 6A Die Mitgliederversammlung
 ====================================================
 
 
 1. Oberstes Organ ist die Mitgliederversammlung.
 
 2. Die Mitgliederversammlung stellt die Richtlinien für die Arbeit des Vereins auf und entscheidet Fragen von grundsätzlicher Bedeutung. Zu den Aufgaben der Mitgliederversammlung gehören insbesondere:
-		a) Bestimmung der Vorstandsmitglieder und Kassenprüfer durch  	geheime Wahl
+		a) Bestimmung der Vorstandsmitglieder und Kassenprüfer durch geheime Wahl
 		b) Diskussion über die bisherige und zukünftige Arbeit des Vereins
 		c) Genehmigung des vom Vorstand vorgelegten Wirtschafts- und Investitionsplans
 		d) Beschlussfassung über den Jahresabschluss
 		e) Entgegennehmen des Geschäftsberichtes des Vorstandes
 		f) Beschlussfassung über die Entlastung des Vorstandes
 		g) Erlass der Beitragsordnung, die nicht Bestandteil der Satzung ist
-		h) Beschlussfassung über Änderungen der Satzung und die Auflösung des Vereins
+		h) Beschluss über die Übernahme neuer Aufgaben und/oder den Rückzug aus Aufgaben seitens des Vereins.
 		i) Beschluss über den Ausschluss von Mitgliedern sowie ausgesprochenen Hausverboten
+		j) Beschlussfassung über Änderungen der Satzung und die Auflösung des Vereins
+		
 
 3. Die Einladung zur Mitgliederversammlung erfolgt durch den Vorstand in Textform. Die Einladungsfrist beträgt  28 Tage, wobei der Tag der Versammlung sowie der Tag der Einladung mitgezählt sind.
 
 4. Die Mitgliederversammlung tagt mindestens einmal im Jahr.
 
-5. Auf Antrag von wenigstens 25% der aktiven Mitglieder oder auf Beschluss des Vorstandes, ist durch den Vorstand binnen sechs Wochen eine außerordentliche Mitgliederversammlung einzuberufen.
+5. Auf Antrag von wenigstens 7 der stimmberechtigten Mitglieder oder auf Beschluss des Vorstandes, ist durch den Vorstand binnen sechs Wochen eine außerordentliche Mitgliederversammlung einzuberufen. Die Einladungsfrist beträgt in diesem Fall mindestens 7 Tage.
 
 6. Die Mitgliederversammlung ist beschlussfähig, wenn mindestens 10 aktive Mitglieder anwesend sind; Falls dies nicht der Fall sein sollte, wird sofort ein neuer Termin vereinbart. Diese zweite Einladungsfrist beträgt eine Woche. Die daraufhin einberufene Mitgliederversammlung ist dann in jedem Fall beschlussfähig.
 
@@ -153,9 +153,11 @@ Die Organe des Vereins sind
 
 3. Die Amtszeit der Vorstandsmitglieder beträgt 2 Jahre. Sie bleiben bis zur Bestellung des neuen Vorstandes kommissarisch im Amt.
 
-4. Der Vorstand entscheidet über die Übernahme neuer Aufgaben und/oder den Rückzug aus Aufgaben seitens des Vereins.
+4. Der Vorstand entscheidet kommissarisch über die Übernahme neuer Aufgaben und/oder den Rückzug aus Aufgaben seitens des Vereins.
 
-5. Der Vorstand gibt sich selbst eine Geschäftsordnung.
+5. Der Vorstand hat das Recht ein temporäres Hausverbot bis zur nächsten Mitgliederversammlung auszusprechen. 
+
+6. Der Vorstand gibt sich selbst eine Geschäftsordnung.
 
 
 ====================================================
