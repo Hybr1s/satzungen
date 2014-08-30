@@ -15,3 +15,8 @@ Zudem bin ich kein Jurist und kann keine Gewehr auf Vollständigkeit und Rechtss
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!Verwendung auf eigene Gefahr!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+ToDo:
+
+Satzungen gendern! 
